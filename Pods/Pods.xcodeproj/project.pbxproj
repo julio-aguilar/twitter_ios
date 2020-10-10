@@ -150,6 +150,7 @@
 		093C9BCBA2B833947C8E5FB0F0B63084 /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
 		0AC54D03C44FBCE55B5CEE1F40A1C43F /* Pods-Twitter-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Twitter-frameworks.sh"; sourceTree = "<group>"; };
 		0CDB332303FEE022DEBF309DEB8015AB /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
+		10D75A1D2531716A0036E1D3 /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = System/Library/Frameworks/CoreServices.framework; sourceTree = SDKROOT; };
 		127DCC3301EC6CF806AC94ECA08479A5 /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
 		158F16DE4B134DE4921A1B777638D2D3 /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
 		1B05DC17B99ED32AA691B24F17FD742F /* AFSecurityPolicy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = "<group>"; };
@@ -418,6 +419,7 @@
 		AA076697F6E101B1542A1514540D86B3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				10D75A1D2531716A0036E1D3 /* CoreServices.framework */,
 				8FDF5CF4C56136E5027670739943F4F9 /* AFNetworking.framework */,
 				59B462ECFD5CC25B2ED526DFC3B1C052 /* Alamofire.framework */,
 				908455D26C66F3F98F72350E9E7C933A /* iOS */,
